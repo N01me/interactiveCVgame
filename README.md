@@ -1,2 +1,2 @@
 # interactiveCVgame
-resume 
+resume (CV) 
